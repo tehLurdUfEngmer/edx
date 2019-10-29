@@ -133,3 +133,33 @@
 [NotebookApp | INFO] Shutting down 2 kernels
 [NotebookApp | INFO] Kernel shutdown: 9c0d8029-d151-4e20-9bd2-a357d71485dc
 [NotebookApp | INFO] Kernel shutdown: 7f373c9b-c105-4753-bfcb-a026d29c56be
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 0.90ms
+[NotebookApp | INFO] Creating new notebook in /my_code/Cours/week1_2
+[NotebookApp | INFO] Kernel started: 79ccf4ec-efc8-4bce-b249-b751cc9342d2
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191029195840 (172.17.0.1) 18.34ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 79ccf4ec-efc8-4bce-b249-b751cc9342d2
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Untitled.ipynb
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/Section1-Spark-Basics/2.SparkSQL/Figures/AWS-EMR-S3.png (172.17.0.1) 16.68ms
+[NotebookApp | INFO] Kernel started: 7d0ccc9b-22a6-451e-8360-b0d9d4a26801
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7d0ccc9b-22a6-451e-8360-b0d9d4a26801
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191029195840 (172.17.0.1) 17.35ms referer=http://localhost:8889/notebooks/Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb
+[NotebookApp | INFO] Saving file at /Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Parquet.ipynb
+[NotebookApp | INFO] Starting buffering for 79ccf4ec-efc8-4bce-b249-b751cc9342d2:feb2c2d02cba40879d494aaec9941973
+[NotebookApp | INFO] Starting buffering for 7d0ccc9b-22a6-451e-8360-b0d9d4a26801:48ca74fd9d5c4e7f80bdc4f801587598
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 79ccf4ec-efc8-4bce-b249-b751cc9342d2
+[NotebookApp | INFO] Kernel shutdown: 7d0ccc9b-22a6-451e-8360-b0d9d4a26801
