@@ -315,3 +315,104 @@
 [NotebookApp | INFO] interrupted
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 0.96ms
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7236962d-34cf-482a-8064-56c168062070
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191030190554 (172.17.0.1) 16.46ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7236962d-34cf-482a-8064-56c168062070
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/2.SparkSQL/4.More on spark.sql.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e9a7f51d-b195-4e14-abf2-080f2c8f48a0
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191030190554 (172.17.0.1) 9.59ms referer=http://localhost:8889/notebooks/Section1-Spark-Basics/2.SparkSQL/4.More%20on%20spark.sql.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e9a7f51d-b195-4e14-abf2-080f2c8f48a0
+[NotebookApp | INFO] Starting buffering for e9a7f51d-b195-4e14-abf2-080f2c8f48a0:20e3f09b35784cf7b6d123de3f848579
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/2.SparkSQL/GroupBy vs. ReducebyKey vs SQL-Group-By.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 078d7d97-eae0-4b03-8ee7-4da0eda04ca7
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191030190554 (172.17.0.1) 4.96ms referer=http://localhost:8889/notebooks/Section1-Spark-Basics/2.SparkSQL/GroupBy%20vs.%20ReducebyKey%20vs%20SQL-Group-By.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 078d7d97-eae0-4b03-8ee7-4da0eda04ca7
+[NotebookApp | INFO] Starting buffering for 078d7d97-eae0-4b03-8ee7-4da0eda04ca7:0435b68b47f04f5c84e7c0bd80e45615
+[NotebookApp | INFO] Kernel shutdown: e9a7f51d-b195-4e14-abf2-080f2c8f48a0
+[NotebookApp | INFO] Kernel shutdown: 078d7d97-eae0-4b03-8ee7-4da0eda04ca7
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Kernel started: 9eda1b1d-8b01-4fcf-bb78-d1311efc5eaa
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191030190554 (172.17.0.1) 2.82ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/KeyValueOperations.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9eda1b1d-8b01-4fcf-bb78-d1311efc5eaa
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/KeyValueOperations.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Starting buffering for 9eda1b1d-8b01-4fcf-bb78-d1311efc5eaa:e9399262131d441c8657c5f90bc7b745
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Chaining.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 21d6aa25-b182-4681-a075-bccd3cc5ef54
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191030190554 (172.17.0.1) 4.26ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Chaining.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21d6aa25-b182-4681-a075-bccd3cc5ef54
+[NotebookApp | INFO] Starting buffering for 21d6aa25-b182-4681-a075-bccd3cc5ef54:3b9bd660d6fa4cb086b77d7f7f5f1a62
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Starting buffering for 7236962d-34cf-482a-8064-56c168062070:25eb25555857467b8aadfa9b8ac55c6c
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: 7236962d-34cf-482a-8064-56c168062070
+[NotebookApp | INFO] Kernel shutdown: 9eda1b1d-8b01-4fcf-bb78-d1311efc5eaa
+[NotebookApp | INFO] Kernel shutdown: 21d6aa25-b182-4681-a075-bccd3cc5ef54
