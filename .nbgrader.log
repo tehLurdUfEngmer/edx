@@ -416,3 +416,49 @@
 [NotebookApp | INFO] Kernel shutdown: 7236962d-34cf-482a-8064-56c168062070
 [NotebookApp | INFO] Kernel shutdown: 9eda1b1d-8b01-4fcf-bb78-d1311efc5eaa
 [NotebookApp | INFO] Kernel shutdown: 21d6aa25-b182-4681-a075-bccd3cc5ef54
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 1.16ms
+[NotebookApp | INFO] Creating new notebook in /my_code/Cours/week1_2
+[NotebookApp | INFO] Kernel started: ad3e76f1-94bb-4771-9cec-602b47dc0698
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191031153808 (172.17.0.1) 23.00ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ad3e76f1-94bb-4771-9cec-602b47dc0698
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9ee561d2-bb63-404d-8a7a-1ef7f42fc724
+[NotebookApp | INFO] 302 GET /notebooks/Section1-Spark-Basics/2.SparkSQL/Figures/AWS-EMR-S3.png (172.17.0.1) 4.47ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191031153808 (172.17.0.1) 6.03ms referer=http://localhost:8889/notebooks/Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9ee561d2-bb63-404d-8a7a-1ef7f42fc724
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/2.SparkSQL/3.S3_HDFS_Parquet.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: ad3e76f1-94bb-4771-9cec-602b47dc0698
+[NotebookApp | INFO] Kernel shutdown: 9ee561d2-bb63-404d-8a7a-1ef7f42fc724
