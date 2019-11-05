@@ -470,3 +470,21 @@
 [NotebookApp | INFO] http://[all ip addresses on your system]:8888/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [NotebookApp | INFO] 302 GET / (172.17.0.1) 1.16ms
+[NotebookApp | WARNING] Notebook PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 19930d47-3914-4a50-9ba5-2d49a5972c77
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191105161608 (172.17.0.1) 14.86ms referer=http://127.0.0.1:8889/notebooks/PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 19930d47-3914-4a50-9ba5-2d49a5972c77
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Starting buffering for 19930d47-3914-4a50-9ba5-2d49a5972c77:2c1b58a3ae844c7392877efd53e4a944
+[NotebookApp | INFO] Kernel shutdown: 19930d47-3914-4a50-9ba5-2d49a5972c77
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
