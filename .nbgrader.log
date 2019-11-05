@@ -462,3 +462,11 @@
 [NotebookApp | INFO] Shutting down 2 kernels
 [NotebookApp | INFO] Kernel shutdown: ad3e76f1-94bb-4771-9cec-602b47dc0698
 [NotebookApp | INFO] Kernel shutdown: 9ee561d2-bb63-404d-8a7a-1ef7f42fc724
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 1.16ms
