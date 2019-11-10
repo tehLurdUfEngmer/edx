@@ -782,3 +782,258 @@
 [NotebookApp | INFO] Kernel shutdown: 51675959-3047-471e-930d-5d969ce5eb6c
 [NotebookApp | INFO] Kernel shutdown: ddfe2314-8bbd-4ad3-a1a5-e774a9f5a6c2
 [NotebookApp | INFO] Kernel shutdown: 7f84845d-8ecb-4609-b58d-99786c7462d2
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 4.04ms
+[NotebookApp | WARNING] Notebook PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d7e4738b-2a53-4863-853f-bf8b613dfa1e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d7e4738b-2a53-4863-853f-bf8b613dfa1e
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191109083742 (172.17.0.1) 68.63ms referer=http://localhost:8889/notebooks/PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Starting buffering for d7e4738b-2a53-4863-853f-bf8b613dfa1e:047af65f894646928c0650a89e3b5cab
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: d7e4738b-2a53-4863-853f-bf8b613dfa1e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 3.87ms
+[NotebookApp | WARNING] Notebook PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: eefe3a4f-3a8d-445d-bd19-db867dc3c14e
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 38.51ms referer=http://localhost:8889/notebooks/PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eefe3a4f-3a8d-445d-bd19-db867dc3c14e
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Kernel started: c8fef937-0deb-4fff-b224-157e9bc114f1
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 13.70ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/KeyValueOperations.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c8fef937-0deb-4fff-b224-157e9bc114f1
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/KeyValueOperations.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Starting buffering for c8fef937-0deb-4fff-b224-157e9bc114f1:083b9a3f027f449a87eff942ae12f22c
+[NotebookApp | INFO] Kernel started: fb57073b-2316-45ff-9f5d-e5bfad02527b
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 16.07ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/word_count.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fb57073b-2316-45ff-9f5d-e5bfad02527b
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/word_count.ipynb
+[NotebookApp | INFO] Starting buffering for fb57073b-2316-45ff-9f5d-e5bfad02527b:dcbd1c57a851414081e66739730acff0
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/LazyEvaluation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ecbf519d-32bd-48cf-bd45-dfbf03212640
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 4.30ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/LazyEvaluation.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ecbf519d-32bd-48cf-bd45-dfbf03212640
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/LazyEvaluation.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/LazyEvaluation.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ecbf519d-32bd-48cf-bd45-dfbf03212640:f012f73b51854f44ab7028d021a02245
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Deserialization.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 950e5a53-ee34-49c2-a8fe-bd1a196678e6
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 4.94ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 950e5a53-ee34-49c2-a8fe-bd1a196678e6
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Deserialization.ipynb
+[NotebookApp | INFO] Starting buffering for 950e5a53-ee34-49c2-a8fe-bd1a196678e6:e82282519c3c431d840ecde6e0c0b8d8
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/PartitionAndGlomming.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 91c51d19-3c3b-4da6-a6e3-9d9d614c4401
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 4.15ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/PartitionAndGlomming.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 91c51d19-3c3b-4da6-a6e3-9d9d614c4401
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/PartitionAndGlomming.ipynb
+[NotebookApp | INFO] Starting buffering for 91c51d19-3c3b-4da6-a6e3-9d9d614c4401:c55b4e37369f4ce08ffdebe861f82d4e
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Parquet.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e9646add-4874-429f-8742-df2e969a9c38
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 5.85ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Parquet.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e9646add-4874-429f-8742-df2e969a9c38
+[NotebookApp | INFO] Starting buffering for e9646add-4874-429f-8742-df2e969a9c38:3fe8cea63787441085fdf9a0995e5c2b
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c9f5dc4b-bb5d-45b1-946e-766297a63c39
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 4.14ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c9f5dc4b-bb5d-45b1-946e-766297a63c39
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Data_dense.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Data_dense.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for c9f5dc4b-bb5d-45b1-946e-766297a63c39:a772a7e4fa42403f904a17061b748288
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/collinearPoints.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a1fd2bee-9e8f-4183-8fa2-3bb6c2dac49b
+[NotebookApp | WARNING] 404 GET /notebooks/my_code/Cours/week1_2/non-collinear-points.jpg (172.17.0.1): No such file or directory: my_code/Cours/week1_2/non-collinear-points.jpg
+[NotebookApp | WARNING] 404 GET /notebooks/my_code/Cours/week1_2/non-collinear-points.jpg (172.17.0.1) 12.54ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/collinearPoints.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 5.86ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/collinearPoints.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a1fd2bee-9e8f-4183-8fa2-3bb6c2dac49b
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/collinearPoints.ipynb
+[NotebookApp | INFO] Starting buffering for a1fd2bee-9e8f-4183-8fa2-3bb6c2dac49b:c10237dbdf6e4ab8883e89d904852291
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Chaining.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 56d42540-5318-451e-9dab-7bedd3dfff5d
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 7.78ms referer=http://localhost:8889/notebooks/my_code/Cours/week1_2/Chaining.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 56d42540-5318-451e-9dab-7bedd3dfff5d
+[NotebookApp | INFO] Saving file at /my_code/Cours/week1_2/Chaining.ipynb
+[NotebookApp | WARNING] Notebook my_code/Cours/week1_2/Chaining.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 56d42540-5318-451e-9dab-7bedd3dfff5d:3bbfd3566f004a1f84ace728ed7e403e
+[NotebookApp | WARNING] Notebook Section1-Spark-Basics/1.BasicSpark/6.(key,val) RDD operations.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 385fd60f-7736-405e-a5d5-b69dcbb69811
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191110095935 (172.17.0.1) 7.67ms referer=http://localhost:8889/notebooks/Section1-Spark-Basics/1.BasicSpark/6.(key%2Cval)%20RDD%20operations.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 385fd60f-7736-405e-a5d5-b69dcbb69811
+[NotebookApp | INFO] Saving file at /Section1-Spark-Basics/1.BasicSpark/6.(key,val) RDD operations.ipynb
+[NotebookApp | INFO] Starting buffering for 385fd60f-7736-405e-a5d5-b69dcbb69811:22d687622085464b8c1da29621ff3531
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 11 kernels
+[NotebookApp | INFO] Kernel shutdown: eefe3a4f-3a8d-445d-bd19-db867dc3c14e
+[NotebookApp | INFO] Kernel shutdown: c8fef937-0deb-4fff-b224-157e9bc114f1
+[NotebookApp | INFO] Kernel shutdown: fb57073b-2316-45ff-9f5d-e5bfad02527b
+[NotebookApp | INFO] Kernel shutdown: ecbf519d-32bd-48cf-bd45-dfbf03212640
+[NotebookApp | INFO] Kernel shutdown: 950e5a53-ee34-49c2-a8fe-bd1a196678e6
+[NotebookApp | INFO] Kernel shutdown: 91c51d19-3c3b-4da6-a6e3-9d9d614c4401
+[NotebookApp | INFO] Kernel shutdown: e9646add-4874-429f-8742-df2e969a9c38
+[NotebookApp | INFO] Kernel shutdown: c9f5dc4b-bb5d-45b1-946e-766297a63c39
+[NotebookApp | INFO] Kernel shutdown: a1fd2bee-9e8f-4183-8fa2-3bb6c2dac49b
+[NotebookApp | INFO] Kernel shutdown: 56d42540-5318-451e-9dab-7bedd3dfff5d
+[NotebookApp | INFO] Kernel shutdown: 385fd60f-7736-405e-a5d5-b69dcbb69811
