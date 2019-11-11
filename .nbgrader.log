@@ -1037,3 +1037,67 @@
 [NotebookApp | INFO] Kernel shutdown: a1fd2bee-9e8f-4183-8fa2-3bb6c2dac49b
 [NotebookApp | INFO] Kernel shutdown: 56d42540-5318-451e-9dab-7bedd3dfff5d
 [NotebookApp | INFO] Kernel shutdown: 385fd60f-7736-405e-a5d5-b69dcbb69811
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 4.25ms
+[NotebookApp | WARNING] Notebook PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 177002c3-f614-4998-9562-fd3cba5aef0a
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191111095228 (172.17.0.1) 85.50ms referer=http://localhost:8889/notebooks/PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 177002c3-f614-4998-9562-fd3cba5aef0a
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Saving file at /PA2_twitter_analysis/hw2_startercode/startercode.0/HW-2.ipynb
+[NotebookApp | INFO] Starting buffering for 177002c3-f614-4998-9562-fd3cba5aef0a:b5c5bfbeecc0480d9a3b1e172cff9cfc
+[NotebookApp | INFO] Kernel shutdown: 177002c3-f614-4998-9562-fd3cba5aef0a
+[NotebookApp | WARNING] 400 GET /api/contents/Section2NotebooksPart1.tgz?type=file&format=text&_=1573466992494 (172.17.0.1): /home/ucsddse230/work/Section2NotebooksPart1.tgz is not UTF-8 encoded
+[NotebookApp | WARNING] /home/ucsddse230/work/Section2NotebooksPart1.tgz is not UTF-8 encoded
+[NotebookApp | WARNING] 400 GET /api/contents/Section2NotebooksPart1.tgz?type=file&format=text&_=1573466992494 (172.17.0.1) 59.05ms referer=http://localhost:8889/edit/Section2NotebooksPart1.tgz
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/0. README.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f7fa0e9e-d9b1-4ea2-b822-7ebba6aa3b62
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191111095228 (172.17.0.1) 4.96ms referer=http://localhost:8889/notebooks/Section2-Weather-PCA_PART1/0.%20README.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f7fa0e9e-d9b1-4ea2-b822-7ebba6aa3b62
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/0. README.ipynb
+[NotebookApp | INFO] Starting buffering for f7fa0e9e-d9b1-4ea2-b822-7ebba6aa3b62:f9cf6faf137b4be29e72d8af88a8459b
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8ea6cc04-581e-4744-aae9-52b9b57bfc99
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20191111095228 (172.17.0.1) 8.88ms referer=http://localhost:8889/notebooks/Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8ea6cc04-581e-4744-aae9-52b9b57bfc99
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb
+[NotebookApp | WARNING] Notebook Section2-Weather-PCA_PART1/1.FunctionsAsVectors.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 8ea6cc04-581e-4744-aae9-52b9b57bfc99:cf2bf272dab343718c6d50defa41cbd7
+[NotebookApp | INFO] Kernel shutdown: 8ea6cc04-581e-4744-aae9-52b9b57bfc99
+[NotebookApp | INFO] Kernel shutdown: f7fa0e9e-d9b1-4ea2-b822-7ebba6aa3b62
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
